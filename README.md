@@ -1,6 +1,8 @@
 # demodevops
-for git demo
+
 Attendees:
-Jay
-Chandresh
-Bharat
+**Jay**
+
+## Chandresh ##
+
+$$ Bharat $$
